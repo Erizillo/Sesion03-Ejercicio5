@@ -31,6 +31,3 @@ if __name__ == "__main__":
 
 # Modificacion hecha por Eric Olle para concluir el ejercicio 2
 # Modificacion numero 2
-
-# Fork JOF
-# He hecho un pull request - JOF
